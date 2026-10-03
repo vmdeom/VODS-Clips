@@ -16,7 +16,7 @@ Live 10 - 08/09/2026 - [Testando -- Final Fantasy Resonance DEMO](https://youtu.
 Live 11 - 11/09/2026 - [Aprendendo a jogar HONKAI](https://youtu.be/NGoWls6niHU)  
 Live 12 - 12/09/2026 - [GBL Pokémon GO](https://youtu.be/09t2gFNKxPA)  
 Live 13 - 13/11/2026 - [Lolzinho com Paulinho???](https://youtu.be/qBH970g9JNM)  
-Live 14 - 18/09/2026 - [Pokémon Brilliant Diamond - Switch](https://youtu.be/WsN63NVWC60)
+Live 14 - 18/09/2026 - [Pokémon Brilliant Diamond - Switch](https://youtu.be/WsN63NVWC60)  
 Live 15 - 29/09/2026 - [Pokémon Crystal [RA]](https://youtu.be/-bSKQNMONto)  
 ## Outubro
 Live 16 - 02/10/2026 - [Live 16 - 02/10/2026 - The Legend of Zelda: Majora's Mask [RA][RHH-GotM]](https://youtu.be/9xtWagDjfKQ)  
