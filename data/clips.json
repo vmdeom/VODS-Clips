@@ -1,0 +1,14 @@
+{
+    "placeholder_1": {
+        "index": 0,
+        "game": "Foo",
+        "date": "01/01/2001",
+        "clipper": "john"
+    },
+    "placeholder_2": {
+        "index": 1,
+        "game": "Bar",
+        "date": "02/02/2002",
+        "clipper": "Doe"
+    }
+}

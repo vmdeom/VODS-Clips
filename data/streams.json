@@ -1,0 +1,12 @@
+{
+    "sample_1": {
+        "index": 0,
+        "game": "Foo",
+        "date": "01/01/2001"
+    },
+    "sample_2": {
+        "index": 1,
+        "game": "Bar",
+        "date": "02/02/2002"
+    }
+}
