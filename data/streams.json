@@ -2,11 +2,13 @@
     "sample_1": {
         "index": 0,
         "game": "Foo",
-        "date": "01/01/2001"
+        "date": "01/01/2001",
+        "link": "http://127.0.0.1/ping"
     },
     "sample_2": {
         "index": 1,
         "game": "Bar",
-        "date": "02/02/2002"
+        "date": "02/02/2002",
+        "link": "http://127.0.0.1/pong"
     }
 }

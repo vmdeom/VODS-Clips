@@ -2,12 +2,14 @@
     "vod_title": {
         "index": 0,
         "game": "",
-        "date": ""
+        "date": "",
+        "link": ""
     },
     "clip_title": {
         "index": 0,
         "game": "",
         "date": "",
-        "clipper": ""
+        "clipper": "",
+        "link": ""
     }
 }

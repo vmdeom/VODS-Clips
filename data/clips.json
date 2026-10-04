@@ -3,12 +3,14 @@
         "index": 0,
         "game": "Foo",
         "date": "01/01/2001",
-        "clipper": "john"
+        "clipper": "john",
+        "link": "http://127.0.0.1/ping"
     },
     "placeholder_2": {
         "index": 1,
         "game": "Bar",
         "date": "02/02/2002",
-        "clipper": "Doe"
+        "clipper": "Doe",
+        "link": "http://127.0.0.1/pong"
     }
 }
